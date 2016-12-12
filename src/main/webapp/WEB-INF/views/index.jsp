@@ -9,22 +9,22 @@
       <title>SPHINX-Single Page Awesomeness</title>
       <!-- Bootstrap core CSS -->
      
-      <link type="text/css" href="css/bootstrap.min.css" rel="stylesheet"/>
-      <link type="text/css" href="css/font-awesome.min.css" rel="stylesheet"/>
-      <link type="text/css" href="css/component.css" rel="stylesheet" />
-      <link type="text/css" href="css/base.css" rel="stylesheet"/>
-      <script src="js/modernizr.custom.js"></script>
+      <link type="text/css" href="/resourse/css/bootstrap.min.css" rel="stylesheet"/>
+      <link type="text/css" href="/resourse/css/font-awesome.min.css" rel="stylesheet"/>
+      <link type="text/css" href="/resourse/css/component.css" rel="stylesheet" />
+      <link type="text/css" href="/resourse/css/base.css" rel="stylesheet"/>
+      <script src="/resourse/js/modernizr.custom.js"></script>
       <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
       <!--[if lt IE 9]>
-      <script src="js/html5shiv.js"></script>
-      <script src="js/respond.min.js"></script>
+      <script src="/resourse/js/html5shiv.js"></script>
+      <script src="/resourse/js/respond.min.js"></script>
       <![endif]-->
    </head>
    <body>
       <div class="cover-all cover-body">
          <div class="loading-place">
             <div class="windows8">
-               <img alt="loading" src="images/loading.gif"/>
+               <img alt="loading" src="/resourse/images/loading.gif"/>
             </div>
             <div>
                <p class="load-text">Please wait</p>
@@ -43,7 +43,7 @@
                <span class="icon-bar"></span>
                </button>
                <a class="navbar-brand ms-logo" href="#">
-               <img alt="sphinx logo" title="sphinx" class="img-responsive" src="images/logo.png">
+               <img alt="sphinx logo" title="sphinx" class="img-responsive" src="/resourse/images/logo.png">
                </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -65,7 +65,7 @@
             <div class="container-fluid text-center banner-main">
                <div class="ban-text-middle">
                   <a class="navbar-brand ms-logo second" href="#">
-                  <img alt="sphinx logo" title="sphinx" class="img-responsive" src="images/logo.png">
+                  <img alt="sphinx logo" title="sphinx" class="img-responsive" src="/resourse/images/logo.png">
                   </a>
                   <h1>HELLO, WE'RE SPHINX CREATIVE</h1>
                   <p>We craft custom websites for entrepreneurs, organizations and established brands.<br> 
@@ -157,7 +157,7 @@
                   <div class="cbp-so-side  col-lg-6  container-fluid cbp-so-from-left">
                      <div class="row">
                         <div class=" col-xs-12 col-lg-4 img-wrap-main">
-                           <img alt="work item one" title="works" class="img-responsive" src="images/portfolio_1.jpg"/>
+                           <img alt="work item one" title="works" class="img-responsive" src="/resourse/images/portfolio_1.jpg"/>
                         </div>
                         <div class="col-lg-8 port-desc-wrap">
                            <h3>Travelling map Website</h3>
@@ -171,7 +171,7 @@
                   <div class="cbp-so-side  col-lg-6  container-fluid cbp-so-from-right">
                      <div class="row">
                         <div class="col-xs-12 col-lg-4 img-wrap-main">
-                           <img alt="work item two" title="works"  class="img-responsive" src="images/portfolio_2.jpg"/>
+                           <img alt="work item two" title="works"  class="img-responsive" src="/resourse/images/portfolio_2.jpg"/>
                         </div>
                         <div class="col-lg-8 port-desc-wrap">
                            <h3>Travelling map Website</h3>
@@ -185,7 +185,7 @@
                   <div class="cbp-so-side  col-lg-6  container-fluid cbp-so-from-left">
                      <div class="row">
                         <div class="col-xs-12 col-lg-4 img-wrap-main">
-                           <img alt="work item three" title="works" class="img-responsive" src="images/portfolio_4.jpg"/>
+                           <img alt="work item three" title="works" class="img-responsive" src="/resourse/images/portfolio_4.jpg"/>
                         </div>
                         <div class="col-lg-8 port-desc-wrap">
                            <h3>Travelling map Website</h3>
@@ -199,7 +199,7 @@
                   <div class="cbp-so-side  col-lg-6  container-fluid cbp-so-from-right">
                      <div class="row">
                         <div class="col-xs-12 col-lg-4 img-wrap-main">
-                           <img alt="work item four" title="works" class="img-responsive" src="images/portfolio_3.jpg"/>
+                           <img alt="work item four" title="works" class="img-responsive" src="/resourse/images/portfolio_3.jpg"/>
                         </div>
                         <div class="col-lg-8 port-desc-wrap">
                            <h3>Travelling map Website</h3>
@@ -213,7 +213,7 @@
                   <div class="cbp-so-side  col-lg-6  container-fluid cbp-so-from-left">
                      <div class="row">
                         <div class="col-xs-12 col-lg-4 img-wrap-main">
-                           <img alt="work item five" title="works" class="img-responsive" src="images/portfolio_4.jpg"/>
+                           <img alt="work item five" title="works" class="img-responsive" src="/resourse/images/portfolio_4.jpg"/>
                         </div>
                         <div class="col-lg-8 port-desc-wrap">
                            <h3>Travelling map Website</h3>
@@ -243,7 +243,7 @@
                <div class="col-lg-3">
                   <div class=" container-fluid abt-item">
                      <div class="container-fluid img-base">
-                        <img alt="member one" title="members"  class="img-responsive" src="images/team_1.jpg"/>
+                        <img alt="member one" title="members"  class="img-responsive" src="/resourse/images/team_1.jpg"/>
                      </div>
                      <div class="container-fluid">
                         <h4>Marco Simoncelli</h4>
@@ -262,7 +262,7 @@
                <div class="col-lg-3">
                   <div class=" container-fluid abt-item">
                      <div class="container-fluid img-base">
-                        <img alt="member two" title="members" class="img-responsive" src="images/team_2.jpg"/>
+                        <img alt="member two" title="members" class="img-responsive" src="/resourse/images/team_2.jpg"/>
                      </div>
                      <div class="container-fluid">
                         <h4 >Russel Nathan</h4>
@@ -281,7 +281,7 @@
                <div class="col-lg-3">
                   <div class=" container-fluid abt-item">
                      <div class="container-fluid img-base">
-                        <img  alt="member three" title="members" class="img-responsive" src="images/team_3.jpg"/>
+                        <img  alt="member three" title="members" class="img-responsive" src="/resourse/images/team_3.jpg"/>
                      </div>
                      <div class="container-fluid">
                         <h4>John Doe</h4>
@@ -300,7 +300,7 @@
                <div class="col-lg-3">
                   <div class=" container-fluid abt-item">
                      <div class="container-fluid img-base">
-                        <img alt="member four" title="members"  class="img-responsive" src="images/team_4.jpg"/>
+                        <img alt="member four" title="members"  class="img-responsive" src="/resourse/images/team_4.jpg"/>
                      </div>
                      <div class="container-fluid">
                         <h4>Peter Krux</h4>
@@ -336,7 +336,7 @@
                            <div class="item active">
                               <div class="row">
                                  <div class=" col-xs-2 col-lg-3 test-left-main">
-                                    <img alt="client one" title="clients" class="img-responsive" src="images/team_1.jpg"/>
+                                    <img alt="client one" title="clients" class="img-responsive" src="/resourse/images/team_1.jpg"/>
                                  </div>
                                  <div class="col-xs-9 pull-right col-lg-9 test-right-main">
                                     <span class="mention-tria arrow-left"></span>
@@ -350,7 +350,7 @@
                            <div class="item">
                               <div class="row">
                                  <div class="col-xs-2 col-lg-3 test-left-main">
-                                    <img alt="client two "  title="clients" class="img-responsive" src="images/team_2.jpg"/>
+                                    <img alt="client two "  title="clients" class="img-responsive" src="/resourse/images/team_2.jpg"/>
                                  </div>
                                  <div class="col-xs-9 pull-right col-lg-9 test-right-main">
                                     <span class="mention-tria arrow-left"></span>
@@ -364,7 +364,7 @@
                            <div class="item active">
                               <div class="row">
                                  <div class="col-xs-2 col-lg-3 test-left-main">
-                                    <img alt="client three" title="clients" class="img-responsive" src="images/team_3.jpg"/>
+                                    <img alt="client three" title="clients" class="img-responsive" src="/resourse/images/team_3.jpg"/>
                                  </div>
                                  <div class="col-xs-9 pull-right col-lg-9 test-right-main">
                                     <span class="mention-tria arrow-left"></span>
@@ -381,16 +381,16 @@
                      <div class="container-fluid client-logo-main">
                         <div class="row">
                            <div class="col-xs-6 col-md-3 col-lg-3 text-center">
-                              <img alt="client logo name" title="clients" src="images/client_logo_01.png" class=" img-responsive"/>
+                              <img alt="client logo name" title="clients" src="/resourse/images/client_logo_01.png" class=" img-responsive"/>
                            </div>
                            <div class="col-xs-6 col-md-3 col-lg-3 text-center">
-                              <img alt="client logo name" title="clients" src="images/client_logo_02.png" class=" img-responsive"/>
+                              <img alt="client logo name" title="clients" src="/resourse/images/client_logo_02.png" class=" img-responsive"/>
                            </div>
                            <div class="col-xs-6 col-md-3 col-lg-3 text-center">
-                              <img alt="client logo name" title="clients" src="images/client_logo_03.png" class=" img-responsive"/>
+                              <img alt="client logo name" title="clients" src="/resourse/images/client_logo_03.png" class=" img-responsive"/>
                            </div>
                            <div class="col-xs-6 col-md-3 col-lg-3 text-center">
-                              <img alt="client logo name" title="clients"  src="images/client_logo_04.png" class=" img-responsive"/>
+                              <img alt="client logo name" title="clients"  src="/resourse/images/client_logo_04.png" class=" img-responsive"/>
                            </div>
                         </div>
                      </div>
@@ -496,16 +496,16 @@
       <!--main container-->
       <!-- Bootstrap core JavaScript
          ================================================== -->
-      <script src="js/jquery-1.10.2.min.js"></script>
-      <script src="js/jquery-migrate-1.2.1.min.js"></script>
-      <script src="js/bootstrap.min.js"></script>
-      <script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
-      <script src="js/cbpScroller.js"></script>
-      <script src="js/classie.js"></script>
-      <script src="js/jquery.scrollTo.js"></script>
-      <script src="js/jquery.nav.js"></script>
+      <script src="/resourse/js/jquery-1.10.2.min.js"></script>
+      <script src="/resourse/js/jquery-migrate-1.2.1.min.js"></script>
+      <script src="/resourse/js/bootstrap.min.js"></script>
+      <script type="text/javascript" src="/resourse/js/jquery.parallax-1.1.3.js"></script>
+      <script src="/resourse/js/cbpScroller.js"></script>
+      <script src="/resourse/js/classie.js"></script>
+      <script src="/resourse/js/jquery.scrollTo.js"></script>
+      <script src="/resourse/js/jquery.nav.js"></script>
      
-      <script src="js/base.js"></script>
+      <script src="/resourse/js/base.js"></script>
      
    </body>
 </html>
