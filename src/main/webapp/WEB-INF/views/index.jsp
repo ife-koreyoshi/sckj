@@ -102,10 +102,9 @@
 						</div>
 						<div class="container-fluid text-center">
 							<h4>用户管理</h4>
-							<p>Customers buy from and engage with brands through an
-								increasing number of channels. Whether analogue or digital, at
-								Sphinx we pride ourselves on designing impressive, creative
-								brand experiences.</p>
+							<p>用户管理，即站长在后台管理用户的功能。
+您可以:1、管理用户（编辑会员的资料、用户组、权限、积分，授予会员勋章，查找马甲、禁止用户以及删除会员等）;
+2、导出用户信息；3、清理用户，通过条件匹配批量删除用户；4、找出会员使用的马甲。</p>
 						</div>
 					</div>
 					<div class=" col-xs-6 col-md-4 col-lg-4">
@@ -113,11 +112,11 @@
 							<i class="fa fa-backward"></i>
 						</div>
 						<div class="container-fluid text-center">
-							<h4>游戏管理</h4>
-							<p>Customers buy from and engage with brands through an
-								increasing number of channels. Whether analogue or digital, at
-								Sphinx we pride ourselves on designing impressive, creative
-								brand experiences.</p>
+							<h4>游戏平台</h4>
+							<p>体积较小、玩法简单的游戏，通常这类游戏以休闲益智类为主，网页版。
+							一般游戏大小小于10m的游戏都统称为小游戏，一些街机类小游戏。
+							如植物大战僵尸，捕鱼达人，合金弹头等归纳其中，因其游戏安装简便，
+							耐玩性强，无依赖性而广受白领及小朋友的喜爱</p>
 						</div>
 					</div>
 					<div class=" col-xs-6 col-md-4 col-lg-4">
@@ -126,10 +125,11 @@
 						</div>
 						<div class="container-fluid text-center">
 							<h4>一日一句</h4>
-							<p>Customers buy from and engage with brands through an
-								increasing number of channels. Whether analogue or digital, at
-								Sphinx we pride ourselves on designing impressive, creative
-								brand experiences.</p>
+							<p>定制服务，你有多久没有主动和你的家人朋友以及自己说说话。在这里我教你每天说一句和任何人。
+							1.今天又是新的一天。
+							2.上帝以及老天爷呀，让一切都好起来吧！
+							3.在任何时间任何地点任何情况下，你都要记住，我是爱你的。
+							4.阳光让生活变得甜美明亮。</p>
 						</div>
 					</div>
 					 <div class=" col-xs-6 col-md-4 col-lg-4">
@@ -138,10 +138,7 @@
 						</div>
 						<div class="container-fluid text-center">
 							<h4>所学即所得</h4>
-							<p>Customers buy from and engage with brands through an
-								increasing number of channels. Whether analogue or digital, at
-								Sphinx we pride ourselves on designing impressive, creative
-								brand experiences.</p>
+							<p>只要你学，就给你钱</p>
 						</div>
 					</div>
 					<div class=" col-xs-6 col-md-4 col-lg-4">
@@ -150,10 +147,9 @@
 						</div>
 						<div class="container-fluid text-center">
 							<h4>渣渣小说</h4>
-							<p>Customers buy from and engage with brands through an
-								increasing number of channels. Whether analogue or digital, at
-								Sphinx we pride ourselves on designing impressive, creative
-								brand experiences.</p>
+							<p>武侠小说 、推理小说 、历史小说 、言情小说 、科幻小说 、奇幻小说 、
+							游戏小说、玄幻小说 、探险小说 、恐怖小说 、冶艳小说 、讽刺小说 、神怪小说 、电影小说 、架空历史小说 、网游小说 、轻小说 、军事小说。
+							以上这些都没有</p>
 						</div>
 					</div>
 					<!--<div class=" col-xs-6 col-md-4 col-lg-4">
