@@ -40,5 +40,10 @@ public class PageController {
 	public String foo(Map<String, Object> model) {
 		throw new RuntimeException("Foo");
 	}
+	
+	@RequestMapping("/docker")
+	public String docker(Map<String, Object> model) {
+		return "/dockerLearn/docker1";
+	}
 
 }
